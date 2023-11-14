@@ -9,7 +9,7 @@
 
 
 /* basic elements */
-html {
+/* html {
 	margin: 0;
 	padding: 0;
 	}
@@ -51,7 +51,7 @@ abbr {
 
 
 /* specific divs */
-.page-wrapper { 
+/* .page-wrapper { 
 	background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat top left; 
 	padding: 0 175px 0 110px;  
 	margin: 0; 
@@ -61,8 +61,8 @@ abbr {
 .intro { 
 	min-width: 470px;
 	width: 100%;
-	}
-
+	} */
+/* 
 header h1 { 
 	background: transparent url(http://csszengarden.com/001/h1.gif) no-repeat top left;
 	margin-top: 10px;
@@ -117,9 +117,9 @@ footer {
 	}
 footer a:link, footer a:visited { 
 	margin-right: 20px; 
-	}
+	} */ 
 
-.sidebar {
+/* .sidebar {
 	margin-left: 600px; 
 	position: absolute; 
 	top: 0; 
@@ -141,8 +141,8 @@ footer a:link, footer a:visited {
 	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
-	}
-.sidebar h3.archives { 
+	} */
+/* .sidebar h3.archives { 
 	background: transparent url(http://csszengarden.com/001/h5.gif) no-repeat top left; 
 	margin: 25px 0 5px 0; 
 	width:57px; 
@@ -151,8 +151,8 @@ footer a:link, footer a:visited {
 	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
-	}
-.sidebar h3.resources { 
+	} */
+/* .sidebar h3.resources { 
 	background: transparent url(http://csszengarden.com/001/h6.gif) no-repeat top left; 
 	margin: 25px 0 5px 0; 
 	width:63px; 
@@ -161,10 +161,10 @@ footer a:link, footer a:visited {
 	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
-	}
+	} */
 
 
-.sidebar ul {
+/* .sidebar ul {
 	margin: 0;
 	padding: 0;
 	}
@@ -191,4 +191,4 @@ footer a:link, footer a:visited {
 	right: 0; 
 	width: 148px; 
 	height: 110px;
-	}
+	} */
